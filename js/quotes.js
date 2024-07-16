@@ -41,6 +41,10 @@ const quotes = [
         quote: "눈길을 걸을 때 어지럽게 걷지 말기를, 내가 걸은 길이 다른 이들의 이정표가 되리니",
         author: "김구",
     },
+    {
+        quote: "자신을 사랑하는 것이 행복의 시작이다",
+        author: "오프라 윈프리",
+    },
 ];
 const todaysQuote = quotes[Math.floor(Math.random() * quotes.length)];
 
